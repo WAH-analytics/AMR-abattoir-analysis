@@ -5,7 +5,7 @@ Geospatial and data-driven analysis of antimicrobial resistance patterns in abat
 ### Evaluating Pathogen Persistence Across Critical Abattoir Reservoirs in Osun State
 
 ## 📌 Project Overview
-Antimicrobial Resistance (AMR) is often called the "Silent Pandemic." This project utilizes advanced geospatial mapping and data analytics to track the prevalence of resistant bacterial isolates across four key municipalities in Osun State: **Ede, Ife, Iwo, and Osu.**
+Antimicrobial Resistance (AMR) is often called the "Silent Pandemic." This project utilizes geospatial mapping and data analytics to track the prevalence of resistant bacterial isolates across four key municipalities in Osun State: **Ede, Ife, Iwo, and Osu.**
 
 By analyzing **274 bacterial isolates** from abattoir environments, this study identifies "Superbug" hotspots and high-risk environmental reservoirs, providing a data-driven roadmap for public health intervention.
 
@@ -19,40 +19,37 @@ This project addresses these gaps by transforming raw laboratory data into actio
 
 ## 🧠 Analytical Approach
 The project followed a structured analytical workflow:
--Cleaned and transformed raw laboratory data
--Engineered new analytical features to enhance insight generation
--Designed a risk-based framework to quantify environmental danger
--Built an interactive dashboard to visualize resistance patterns
--Interpreted results to generate actionable recommendations
+* Cleaned and transformed raw laboratory data
+* Engineered new analytical features to enhance insight generation
+* Designed a risk-based framework to quantify environmental danger
+* Built an interactive dashboard to visualize resistance patterns
+* Interpreted results to generate actionable recommendations
 
-##🧪 Dataset & Structure
+## 🧪 Dataset & Structure
+* Source: Atobatele et al. (2024)
+doi: 10.17632/ccmrx8n7mk.1 
+* Size: 274 bacterial isolates
+* Locations: Ede, Ife, Iwo, Osu
+Variables: Antibiotics, Sample Source, Inhibition Zones
 
-Source: Abattoir environmental samples
-Size: 274 bacterial isolates
-Locations: Ede, Ife, Iwo, Osu
-Variables: Antibiotic response, location, surface type, inhibition zones
-
-#🧹 Data Cleaning & Feature Engineering 
-
+## 🧹 Data Cleaning & Feature Engineering 
 The project transformed a raw dataset of 6 core columns into a sophisticated analytical framework featuring over **15 strategic metrics**, including:
 * **CLSI Standardization:** Categorizing inhibition zone measurements (mm) into Sensitive, Intermediate, and Resistant.
 - **Environmental Danger Index:** A custom-weighted "Risk Score" to quantify the danger level of specific surfaces.
 - **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (The "Superbug" – resistant to all 5 tested classes).
 
-#📊 Dashboard & Key Insights
-🌍 Geographic Hotspots
-(image) 
+## 📊 Key Insights
 ### 1. Geographic "Epicenters"
 * **Iwo:** Ranked #1 in the Resistance Risk Index.
 * **Osu:** Shows a staggering **85.5% resistance rate to Ceftazidime**, rendering the drug effectively useless in this municipality.
 
-(image) 
+
 ### 2. Environmental "Red Zones"
 * **Butcher Tables:** Identified as the highest-risk surface (Risk Score: 3.00). Porous materials act as primary reservoirs for pathogen persistence.
 * **Concrete Slabs:** Show high cumulative resistance to Augmentin, suggesting inadequate decontamination.
 * **Surrounding Soil:** Acts as a "Warning Zone," with high resistance leakage into the broader community.
 
-(image) 
+
 ### 3. Antibiotic Performance
 * **The "Last Resort":** **Imipenem** remains the most reliable option (up to 80% sensitivity).
 * **Total Failure:** **Ceftazidime** is failing globally across the study area, with resistance exceeding 68%.
@@ -68,14 +65,16 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 
 
 ## 💡 Strategic Recommendations
+
 1. **Infrastructure:** Replace porous wooden tables with stainless steel to prevent biofilm formation.
 2. **Policy:** Restrict Ceftazidime use in local veterinary settings to slow resistance progression.
 3. **Environmental:** Improve drainage systems to prevent effluent leakage into community soil.
 
-##⚠️ Limitations
--Dataset limited to selected abattoirs within Osun State
--Resistance patterns may vary across seasons and regions
--Findings should be complemented with broader surveillance data
+## ⚠️ Limitations
+
+* Dataset limited to selected abattoirs within Osun State
+* Resistance patterns may vary across seasons and regions
+* Findings should be complemented with broader surveillance data
 
 ## 🛠️ Tech Stack
 - **Data Cleaning:** Microsoft Excel
