@@ -1,5 +1,14 @@
-# AMR-abattoir-analysis
-Geospatial and data-driven analysis of antimicrobial resistance patterns in abattoir samples across Osun State, identifying resistance hotspots and public health risks.
+# 🦠 AMR-Abattoir-Analysis
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Cleaning-217346?logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-0F9D58)
+![Public Health](https://img.shields.io/badge/Domain-Public%20Health-blue)
+![Microbiology](https://img.shields.io/badge/Field-Microbiology-darkgreen)
+![AMR](https://img.shields.io/badge/Focus-Antimicrobial%20Resistance-red)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+Geospatial and data-driven analysis of antimicrobial resistance patterns in abattoir samples across Osun State, identifying resistance hotspots and public health risks. 
 
 # 🦠 Geospatial Surveillance of Antimicrobial Resistance (AMR)
 ### Evaluating Pathogen Persistence Across Critical Abattoir Reservoirs in Osun State
