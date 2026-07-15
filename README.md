@@ -10,7 +10,22 @@
 Geospatial and data-driven analysis of antimicrobial resistance patterns in abattoir samples across Osun State, identifying resistance hotspots and public health risks. 
 
 # 🦠 Geospatial Surveillance of Antimicrobial Resistance (AMR)
-### Evaluating Pathogen Persistence Across Critical Abattoir Reservoirs in Osun State
+### Evaluating Pathogen Persistence Across Critical Abattoir Reservoirs in Osun State 
+
+## 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [🚨 Public Health Problem](#-public-health-problem)
+- [🧠 Analytical Approach](#-analytical-approach)
+- [🧪 Dataset & Structure](#-dataset--structure)
+- [🧹 Data Cleaning & Feature Engineering](#-data-cleaning--feature-engineering)
+- [📊 Key Insights](#-key-insights)
+- [📊 Dashboard Insights](#-dashboard-insights)
+- [💡 Strategic Recommendations](#-strategic-recommendations)
+- [⚠️ Limitations](#-limitations)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Repository Contents](#-repository-contents)
+- [👨‍🔬 About the Author](#-about-the-author) 
 
 ## 📌 Project Overview
 Antimicrobial Resistance (AMR) is often called the "Silent Pandemic." This project utilizes geospatial mapping and data analytics to track the prevalence of resistant bacterial isolates across four key municipalities in Osun State: **Ede, Ife, Iwo, and Osu.**
