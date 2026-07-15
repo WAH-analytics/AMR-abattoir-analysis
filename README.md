@@ -27,6 +27,16 @@ Geospatial and data-driven analysis of antimicrobial resistance patterns in abat
 - [📂 Repository Contents](#-repository-contents)
 - [👨‍🔬 About the Author](#-about-the-author) 
 
+## 🌟 Project Highlights
+
+- 🦠 **274 bacterial isolates** analyzed across four municipalities in Osun State.
+- 📍 Identified **geographic antimicrobial resistance hotspots** using geospatial analysis.
+- 🧪 Applied **CLSI standards** to classify isolates as Sensitive, Intermediate, or Resistant.
+- ⚠️ Developed a custom **Environmental Danger Index** to assess contamination risk.
+- 📈 Engineered **15+ analytical metrics** from raw laboratory data.
+- 📊 Built an **interactive Power BI dashboard** to communicate key public health insights.
+- 💡 Produced evidence-based recommendations to support antimicrobial stewardship and environmental health policies.
+
 ## 📌 Project Overview
 Antimicrobial Resistance (AMR) is often called the "Silent Pandemic." This project utilizes geospatial mapping and data analytics to track the prevalence of resistant bacterial isolates across four key municipalities in Osun State: **Ede, Ife, Iwo, and Osu.**
 
