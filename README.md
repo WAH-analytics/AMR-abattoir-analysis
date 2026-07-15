@@ -37,6 +37,17 @@ Geospatial and data-driven analysis of antimicrobial resistance patterns in abat
 - 📊 Built an **interactive Power BI dashboard** to communicate key public health insights.
 - 💡 Produced evidence-based recommendations to support antimicrobial stewardship and environmental health policies.
 
+## 🎯 Project Objectives
+
+This project was undertaken to:
+
+- Assess the prevalence and distribution of antimicrobial resistance (AMR) in abattoir-derived bacterial isolates across Osun State.
+- Identify geographic hotspots with elevated resistance patterns using geospatial analysis.
+- Evaluate the effectiveness of commonly used antibiotics against isolated pathogens.
+- Develop analytical metrics, including an Environmental Danger Index, to prioritize high-risk environmental reservoirs.
+- Transform raw laboratory data into an interactive Power BI dashboard that supports evidence-based public health decision-making.
+- Generate actionable recommendations for antimicrobial stewardship, environmental sanitation, and disease surveillance.
+
 ## 📌 Project Overview
 Antimicrobial Resistance (AMR) is often called the "Silent Pandemic." This project utilizes geospatial mapping and data analytics to track the prevalence of resistant bacterial isolates across four key municipalities in Osun State: **Ede, Ife, Iwo, and Osu.**
 
