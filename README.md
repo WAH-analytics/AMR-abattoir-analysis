@@ -56,6 +56,7 @@ By analyzing **274 bacterial isolates** from abattoir environments, this study i
 ## 🚨 Public Health Problem 
 Abattoirs serve as critical points for pathogen transmission, yet monitoring of antimicrobial resistance in these environments is often limited.
 The absence of structured surveillance makes it difficult to:
+
 -Identify resistance hotspots
 -Track environmental contamination
 -Evaluate antibiotic effectiveness
