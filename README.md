@@ -80,9 +80,9 @@ Variables: Antibiotics, Sample Source, Inhibition Zones
 
 ## 🧹 Data Cleaning & Feature Engineering 
 The project transformed a raw dataset of 6 core columns into a sophisticated analytical framework featuring over **15 strategic metrics**, including:
-* **CLSI Standardization:** Categorizing inhibition zone measurements (mm) into Sensitive, Intermediate, and Resistant.
+- **CLSI Standardization:** Categorizing inhibition zone measurements (mm) into Sensitive, Intermediate, and Resistant.
 - **Environmental Danger Index:** A custom-weighted "Risk Score" to quantify the danger level of specific surfaces.
-- * **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (resistant to all five tested antibiotic classes).
+- **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (resistant to all five tested antibiotic classes).
     
 ## 📊 Key Insights
 ### 1. Geographic "Epicenters"
