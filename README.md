@@ -20,7 +20,7 @@ Geospatial and data-driven analysis of antimicrobial resistance patterns in abat
 - [🧪 Dataset & Structure](#-dataset--structure)
 - [🧹 Data Cleaning & Feature Engineering](#-data-cleaning--feature-engineering)
 - [📊 Key Insights](#-key-insights)
-- [📊 Dashboard Insights](#-dashboard-insights)
+- [📊 Dashboard & Visual Insights](#-dashboard--visual-insights)
 - [💡 Strategic Recommendations](#-strategic-recommendations)
 - [⚠️ Limitations](#-limitations)
 - [🛠️ Tech Stack](#️-tech-stack)
@@ -98,14 +98,22 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 * **The "Last Resort":** **Imipenem** remains the most reliable option (up to 80% sensitivity).
 * **Total Failure:** **Ceftazidime** is failing globally across the study area, with resistance exceeding 68%.
 
-## 📊 Dashboard Insights 
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%203.png)
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%204.png)
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%205.png)
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%207.png)
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%208.png)
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%2012.png)
-![AMR Dashboard Overview](AMR%20Dashobard%20Overview%2015.png)
+## 📊 Dashboard & Visual Insights
+
+### Executive Dashboard
+![Executive Dashboard](Images/executive_dashboard.png)
+
+### Antibiotic Resistance Analysis
+![Antibiotic Resistance Analysis](Images/antibiotic_resistance_analysis.png)
+
+### Geographic Hotspots
+![Geographic Hotspots](Images/geographic_hotspots.png)
+
+### Environmental Risk
+![Environmental Risk](Images/environmental_risk.png)
+
+### Antibiotic Performance
+![Antibiotic Performance](Images/antibiotic_performance.png)
 
 
 ## 💡 Strategic Recommendations
