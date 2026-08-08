@@ -82,8 +82,8 @@ Variables: Antibiotics, Sample Source, Inhibition Zones
 The project transformed a raw dataset of 6 core columns into a sophisticated analytical framework featuring over **15 strategic metrics**, including:
 * **CLSI Standardization:** Categorizing inhibition zone measurements (mm) into Sensitive, Intermediate, and Resistant.
 - **Environmental Danger Index:** A custom-weighted "Risk Score" to quantify the danger level of specific surfaces.
-- **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (The "Superbug" – resistant to all 5 tested classes).
-
+- * **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (resistant to all five tested antibiotic classes).
+    
 ## 📊 Key Insights
 ### 1. Geographic "Epicenters"
 * **Iwo:** Ranked #1 in the Resistance Risk Index.
@@ -97,8 +97,8 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 
 
 ### 3. Antibiotic Performance
-* **The "Last Resort":** **Imipenem** remains the most reliable option (up to 80% sensitivity).
-* **Total Failure:** **Ceftazidime** is failing globally across the study area, with resistance exceeding 68%.
+* **Highest Sensitivity:** **Imipenem** remains the most reliable option among the tested antibiotics (up to 80% sensitivity).
+* **Highest Resistance:** **Ceftazidime** showed the highest resistance levels across the study locations, with resistance exceeding 68%.
 
 ## 📊 Dashboard & Visual Insights
 
@@ -138,6 +138,7 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 
 ## 📂 Repository Contents
 
+```text
 ├── Dashboard/
 │   └── Abattoir AMR.pbix
 │
@@ -159,8 +160,7 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 │   └── Abattoir_AMR_Case_Summary.docx
 │
 └── README.md
-
-
+```
 
 ---
 ## 👨‍🔬 About the Author
