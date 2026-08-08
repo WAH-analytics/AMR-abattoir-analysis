@@ -110,7 +110,7 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 ![Geographic Hotspots](Images/geographic_hotspots.png)
 
 ### Environmental Risk
-![Environmental Risk](Images/environmental_risk.png)
+![Environmental and Source Risk](Images/environmental_and_source_risk.png)
 
 ### Antibiotic Performance
 ![Antibiotic Performance](Images/antibiotic_performance.png)
