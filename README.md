@@ -137,10 +137,28 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 - **Domain Expertise:** Microbiology & Public Health Surveillance
 
 ## 📂 Repository Contents
-- `Abattoir AMR.pbix`: Interactive Power BI Dashboard.
-- `Abattoir AMR_Case Summary.docx`: Full technical report and strategic recommendations.
-- `Abattoir_AMR_Antibiotics.xlsx`: Cleaned surveillance data.
-- `AMR Dashobard Overview`: Visual exports of the analytics.
+
+├── Dashboard/
+│   └── Abattoir AMR.pbix
+│
+├── Data/
+│   ├── Raw/
+│   │   └── AMR raw dataset.xlsx
+│   └── Processed/
+│       ├── Abattoir AMR.xlsx
+│       └── Abattoir_AMR_Antibiotics.xlsx
+│
+├── Images/
+│   ├── executive_dashboard.png
+│   ├── antibiotic_resistance_analysis.png
+│   ├── geographic_hotspots.png
+│   ├── environmental_and_source_risk.png
+│   └── antibiotic_performance.png
+│
+├── Report/
+│   └── Abattoir_AMR_Case_Summary.docx
+│
+└── README.md
 
 
 
