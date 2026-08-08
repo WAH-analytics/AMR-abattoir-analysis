@@ -57,9 +57,10 @@ By analyzing **274 bacterial isolates** from abattoir environments, this study i
 Abattoirs serve as critical points for pathogen transmission, yet monitoring of antimicrobial resistance in these environments is often limited.
 The absence of structured surveillance makes it difficult to:
 
--Identify resistance hotspots
--Track environmental contamination
--Evaluate antibiotic effectiveness
+- Identify resistance hotspots
+- Track environmental contamination
+- Evaluate antibiotic effectiveness
+  
 This project addresses these gaps by transforming raw laboratory data into actionable public health insights.
 
 ## 🧠 Analytical Approach
