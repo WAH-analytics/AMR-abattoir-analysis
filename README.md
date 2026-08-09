@@ -85,20 +85,33 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 - **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (resistant to all five tested antibiotic classes).
     
 ## 📊 Key Insights
-### 1. Geographic "Epicenters"
-* **Iwo:** Ranked #1 in the Resistance Risk Index.
-* **Osu:** Shows a staggering **85.5% resistance rate to Ceftazidime**, rendering the drug effectively useless in this municipality.
 
+### 1. Geographic Resistance Hotspots
 
-### 2. Environmental "Red Zones"
-* **Butcher Tables:** Identified as the highest-risk surface (Risk Score: 3.00). Porous materials act as primary reservoirs for pathogen persistence.
-* **Concrete Slabs:** Show high cumulative resistance to Augmentin, suggesting inadequate decontamination.
-* **Surrounding Soil:** Acts as a "Warning Zone," with high resistance leakage into the broader community.
+- **Iwo recorded the highest overall resistance risk** among the four study locations, indicating that it represents the most concerning geographic hotspot in the dataset. This suggests a greater concentration of resistant isolates and highlights Iwo as a priority location for further surveillance and intervention.
 
+- **Osu recorded an 85.5% resistance rate to Ceftazidime**, the highest observed resistance level for this antibiotic across the study locations. This means that only a small proportion of the isolates from Osu remained susceptible to Ceftazidime, indicating substantially reduced effectiveness of the antibiotic against the tested isolates in this location.
+
+- The geographic variation in resistance patterns demonstrates that antimicrobial resistance was **not uniformly distributed across the study area**. Differences between Ede, Ife, Iwo, and Osu therefore provide useful evidence for geographically targeted surveillance and antimicrobial stewardship.
+
+### 2. Environmental Risk Zones
+
+- **Butcher tables recorded the highest environmental risk score (3.00)** among the sampled environmental sources. Because these surfaces are repeatedly exposed to animal materials and may be difficult to clean thoroughly, they can serve as important points for the persistence and transmission of resistant bacteria.
+
+- **Concrete slabs also showed elevated resistance patterns**, particularly in relation to Augmentin. This highlights the importance of considering frequently contaminated working surfaces as potential reservoirs for resistant organisms, especially where sanitation and disinfection practices may be inadequate.
+
+- **Surrounding soil represents an important environmental surveillance point.** The presence of resistant isolates in soil suggests that antimicrobial-resistant bacteria may extend beyond the immediate processing environment. Contaminated soil can potentially contribute to wider environmental dissemination through runoff, animal movement, waste disposal, and human activity.
+
+- The source-level analysis indicates that **environmental reservoirs should be considered alongside the animals and food-processing areas themselves when designing AMR surveillance and control strategies.**
 
 ### 3. Antibiotic Performance
-* **Highest Sensitivity:** **Imipenem** remains the most reliable option among the tested antibiotics (up to 80% sensitivity).
-* **Highest Resistance:** **Ceftazidime** showed the highest resistance levels across the study locations, with resistance exceeding 68%.
+
+- **Imipenem demonstrated the highest overall susceptibility among the tested antibiotics**, reaching approximately 80% susceptibility in some locations. This indicates that Imipenem retained comparatively greater activity against the tested isolates than the other antibiotics evaluated in this study.
+
+- However, this finding should **not be interpreted as a recommendation for routine use of Imipenem**. As a carbapenem, its effectiveness is particularly important to preserve, and continued surveillance is necessary to prevent the development and spread of carbapenem resistance.
+
+- **Ceftazidime showed the highest resistance levels**, with resistance exceeding 68% across the study locations. The particularly high resistance observed in Osu (85.5%) suggests substantial loss of effectiveness against the tested isolates in that location.
+
 
 ## 📊 Dashboard & Visual Insights
 
@@ -120,15 +133,36 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 
 ## 💡 Strategic Recommendations
 
-1. **Infrastructure:** Replace porous wooden tables with stainless steel to prevent biofilm formation.
-2. **Policy:** Restrict Ceftazidime use in local veterinary settings to slow resistance progression.
-3. **Environmental:** Improve drainage systems to prevent effluent leakage into community soil.
+The findings suggest several opportunities for strengthening antimicrobial stewardship, environmental hygiene, and AMR surveillance across the studied abattoir environments.
+
+1. **Improve Abattoir Surface Hygiene and Infrastructure:**  
+   Butcher tables recorded a high environmental risk score. This highlights the importance of improving the materials and sanitation practices used on frequently contaminated surfaces. Where feasible, porous wooden surfaces should be replaced or upgraded with smooth, non-porous, easily disinfected materials such as stainless steel. Routine cleaning and disinfection protocols should also be strengthened to reduce the persistence and transmission of resistant bacteria.
+
+2. **Strengthen Antimicrobial Stewardship:**  
+   The high resistance observed against Ceftazidime, particularly in Osu, indicates the need for closer monitoring of antimicrobial use. Antibiotic selection should be guided by appropriate susceptibility testing. There should be professional veterinary prescription of antibiotics for the animals when needed rather than routine or indiscriminate use. Local surveillance data should also be incorporated into antimicrobial stewardship programs to support more informed treatment decisions.
+
+3. **Strengthen Environmental Management:**  
+   The presence of resistant isolates across environmental sampling points highlights the importance of proper abattoir waste and wastewater management. Improved drainage, controlled effluent disposal, and regular sanitation of surrounding areas could help reduce the movement of potentially resistant organisms from abattoir environments into surrounding soil and other environmental reservoirs.
+
+4. **Prioritize High-Risk Locations for Surveillance:**  
+   Iwo and Osu demonstrated particularly concerning resistance patterns and should be considered priority locations for continued AMR surveillance. Periodic sampling across abattoir surfaces and surrounding environmental reservoirs could help determine whether these patterns persist over time.
+
+5. **Promote Routine AMR Monitoring:**  
+   Regular monitoring of antimicrobial susceptibility patterns can provide early warning of emerging resistance and help identify changes in antibiotic effectiveness. Combining laboratory surveillance with geographic and environmental data would allow public health authorities to better identify and prioritize emerging AMR hotspots.
 
 ## ⚠️ Limitations
 
-* Dataset limited to selected abattoirs within Osun State
-* Resistance patterns may vary across seasons and regions
-* Findings should be complemented with broader surveillance data
+- **Geographic Scope:** The analysis was based on selected abattoir environments within four locations in Osun State (Ede, Ife, Iwo, and Osu). Therefore, the findings may not be representative of all abattoirs or communities within Osun State or other regions.
+
+- **Sample Size and Coverage:** The analysis included **274 bacterial isolates**, providing useful evidence of resistance patterns within the sampled environments but limiting the extent to which the findings can be generalized to the wider population.
+
+- **Temporal Coverage:** The dataset represents observations from a specific sampling period. Antimicrobial resistance patterns may change over time due to differences in antimicrobial use, environmental conditions, seasonal factors, and infection-control practices.
+
+- **Association Rather Than Causation:** The analysis identifies patterns and relationships between resistance, location, antibiotic, and sample source. These associations should not be interpreted as proof that a particular environmental factor directly caused the observed resistance.
+
+- **Risk Index:** The Environmental Danger Index was developed as an analytical prioritization framework for this project. It provides a comparative measure of environmental risk within the dataset and should not be interpreted as a standardized clinical or epidemiological risk score.
+
+- **Need for Broader Surveillance:** The findings should be complemented with larger, multi-location, and longitudinal surveillance studies incorporating additional bacterial species, environmental variables, antimicrobial-use data, and laboratory confirmation where appropriate.
 
 ## 🛠️ Tech Stack
 - **Data Cleaning:** Microsoft Excel
