@@ -14,6 +14,8 @@ Geospatial and data-driven analysis of antimicrobial resistance patterns in abat
 
 ## 📑 Table of Contents
 
+- [🌟 Project Highlights](#-project-highlights)
+- [🎯 Project Objectives](#-project-objectives)
 - [📌 Project Overview](#-project-overview)
 - [🚨 Public Health Problem](#-public-health-problem)
 - [🧠 Analytical Approach](#-analytical-approach)
