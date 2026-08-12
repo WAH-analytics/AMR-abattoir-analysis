@@ -19,8 +19,8 @@ Geospatial and data-driven analysis of antimicrobial resistance patterns in abat
 - [🧠 Analytical Approach](#-analytical-approach)
 - [🧪 Dataset & Structure](#-dataset--structure)
 - [🧹 Data Cleaning & Feature Engineering](#-data-cleaning--feature-engineering)
-- [📊 Key Insights](#-key-insights)
 - [📊 Dashboard & Visual Insights](#-dashboard--visual-insights)
+- [📊 Key Insights](#-key-insights)
 - [💡 Strategic Recommendations](#-strategic-recommendations)
 - [⚠️ Limitations](#-limitations)
 - [🛠️ Tech Stack](#️-tech-stack)
@@ -84,6 +84,23 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 - **Environmental Danger Index:** A custom-weighted "Risk Score" to quantify the danger level of specific surfaces.
 - **Resistance Phenotyping:** Classifying isolates as **MDR** (Multi-Drug Resistant), **XDR** (Extensively Drug-Resistant), and **XDR*** (resistant to all five tested antibiotic classes).
     
+## 📊 Dashboard & Visual Insights
+
+### Executive Dashboard
+![Executive Dashboard](Images/executive_dashboard.png)
+
+### Antibiotic Resistance Analysis
+![Antibiotic Resistance Analysis](Images/antibiotic_resistance_analysis.png)
+
+### Geographic Hotspots
+![Geographic Hotspots](Images/geographic_hotspots.png)
+
+### Environmental Risk
+![Environmental and Source Risk](Images/environmental_and_source_risk.png)
+
+### Antibiotic Performance
+![Antibiotic Performance](Images/antibiotic_performance.png)
+
 ## 📊 Key Insights
 
 ### 1. Geographic Resistance Hotspots
@@ -111,25 +128,6 @@ The project transformed a raw dataset of 6 core columns into a sophisticated ana
 - However, this finding should **not be interpreted as a recommendation for routine use of Imipenem**. As a carbapenem, its effectiveness is particularly important to preserve, and continued surveillance is necessary to prevent the development and spread of carbapenem resistance.
 
 - **Ceftazidime showed the highest resistance levels**, with resistance exceeding 68% across the study locations. The particularly high resistance observed in Osu (85.5%) suggests substantial loss of effectiveness against the tested isolates in that location.
-
-
-## 📊 Dashboard & Visual Insights
-
-### Executive Dashboard
-![Executive Dashboard](Images/executive_dashboard.png)
-
-### Antibiotic Resistance Analysis
-![Antibiotic Resistance Analysis](Images/antibiotic_resistance_analysis.png)
-
-### Geographic Hotspots
-![Geographic Hotspots](Images/geographic_hotspots.png)
-
-### Environmental Risk
-![Environmental and Source Risk](Images/environmental_and_source_risk.png)
-
-### Antibiotic Performance
-![Antibiotic Performance](Images/antibiotic_performance.png)
-
 
 ## 💡 Strategic Recommendations
 
